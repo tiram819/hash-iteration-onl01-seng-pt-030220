@@ -29,4 +29,3 @@ def happy_birthday(birthday_kids)
     You are now #{age} years old!"
   end
 end
-end
