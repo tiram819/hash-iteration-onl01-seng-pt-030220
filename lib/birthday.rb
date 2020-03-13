@@ -18,7 +18,6 @@ age_appropriate_birthday.each do |kids_name, age|
       puts “You are too old for this.”
     end
   end
-end
 
 
 
